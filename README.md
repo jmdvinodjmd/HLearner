@@ -20,3 +20,6 @@ Please cite this paper if you find the work useful:
   pages={1-7},
   doi={10.1109/EMBC58623.2025.11252651}
 }
+```
+
+NOTE: I initially intended to extend this work into a journal article; however, as that process may be delayed, I am releasing the core model here.
